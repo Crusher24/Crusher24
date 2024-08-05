@@ -5,7 +5,7 @@ I am a junior software testing engineer with experience in testing open source p
 
 * 🌍  I'm based in Russia, Omsk
 * ✉️  You can contact me at [fimati.1991@gmail.com](mailto:gimati.1991@gmail.com)
-* 🤝  I'm open to collaborating on Creating checklists, test cases, bug reports Test Design Techniques DevTools Postman SQL PostgreSQL Basic Linux terminal skills Github, Git Basic knowledge of the TCP/IP stack HTTP/HTTPS Traffic Analyzer
+* 🤝  I'm open to collaborating on Creating checklists, test cases, bug reports, Test Design Techniques, DevTools, Postman, SQL PostgreSQL, Basic Linux terminal skills, Github, Git, Basic knowledge of the TCP/IP stack, HTTP/HTTPS Traffic Analyzer
 
 ### Skills
 
